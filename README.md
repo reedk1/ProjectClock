@@ -10,6 +10,6 @@ in the body section of the program.
 2. To keep the time in line with the animation, the text file "counter.txt" should be copied into the animate function. The number 2 should be changed to the time between each frame. The process works by adding the time step to the time integer every time a frame is processed.
 
 3. To create the clock object, copy the "clockobject.txt" into the body of the program. Otherwise, type:
-<div id="MyClockDisplay" class="clock"></div>
+"<div id="MyClockDisplay" class="clock"></div>"
 
 4. Finally, copy "style.txt" into the style section. This will position the clock in the lower section of the screen and define text size, type, and color.
