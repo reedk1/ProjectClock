@@ -3,8 +3,7 @@ A repository for creating a simple clock implemented with WebGL
 
 Implementation and usage can be made fairly simple using this guide.
 
-1. The basic function of the clock can be found in the clock.js file. This file can be linked in the HTML file by writing:
-<script src = "clock.js"></script>
+1. The basic function of the clock can be found in the clock.js file. This file can be linked in the HTML file by writing:          <script src = "clock.js"></script>
 in the body section of the program.
 
 
