@@ -4,7 +4,7 @@ A repository for creating a simple clock implemented with WebGL
 Implementation and usage can be made fairly simple using this guide.
 
 1. The basic function of the clock can be found in the clock.js file. This file can be linked in the HTML file by writing:          <script src = "clock.js"></script>
-in the body section of the program.
+in the body section of the program. Note: the file must be located in the same folder as the .html file
 
 
 2. To keep the time in line with the animation, the text file "counter.txt" should be copied into the animate function. The number 2 should be changed to the time between each frame. The process works by adding the time step to the time integer every time a frame is processed.
